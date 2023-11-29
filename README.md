@@ -11,4 +11,5 @@ The project aim to found out some important inference that a Company can require
 
 Schema-Digital music store data analyst
 
-![musicdatabaseschema](file:///C:/Users/Lakshmi%20Pathy/Desktop/Music%20database%20schema.pdf)
+![musicdatabaseschema](
+https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
