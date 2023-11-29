@@ -11,4 +11,4 @@ The project aim to found out some important inference that a Company can require
 
 Schema-Digital music store data analyst
 
-![Digitalmusicstoredatabaseschema]("C:\Users\Lakshmi Pathy\Desktop\Music database schema.pdf")
+![Digitalmusicstoredatabaseschema](file:///C:/Users/Lakshmi%20Pathy/Desktop/Music%20database%20schema.pdf)
